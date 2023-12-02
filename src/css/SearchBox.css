@@ -1,0 +1,12 @@
+.searchcontainer{
+    /* border: 2px solid green; */
+    width: 60%;
+    margin: 10px auto;
+    padding-bottom: 20px;
+}
+.txtbox{
+    width: 60%;
+    height: 8vh;
+    font-size: 3vh;
+    padding: 1.5vh;
+}

@@ -1,0 +1,17 @@
+.card {
+    min-width: 18%;
+    border: 2px solid red;
+    height: fit-content;
+    padding-right: 5px;
+    margin:3px;
+
+}
+.foot-content {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    /* border: 2px solid springgreen; */
+    margin: 0px auto;
+    margin-top: 20px;
+    height: 15vh;
+}

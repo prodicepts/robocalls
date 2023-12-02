@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid red;
+    width: 80%;
+    margin: 40px auto;
+    min-height: auto;
+    padding: 20px;
+}
